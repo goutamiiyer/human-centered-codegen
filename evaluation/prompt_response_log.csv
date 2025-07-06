@@ -1,0 +1,3 @@
+Prompt ID,Prompt,Expected Output,Model Response,Output Length,Explanation Present?,Alignment Score (1–5),Over-generation?,Under-generation?,Notes
+P001,write a prime checker,"Single function using O(sqrt(n)) logic, no extras.",[Paste full output here],Medium,Yes,3,Yes,No,Model gave multiple implementations and a sieve.
+P002,add error handling,"Same function with basic type and value checks (TypeError, ValueError).",[Paste full output here],Long,Yes,4,Yes,No,"Model added full validation, test harness, and exceptions across module."
