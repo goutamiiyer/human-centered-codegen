@@ -7,13 +7,13 @@ This repository contains a curated set of prompt–response experiments focused 
 - Scope control
 - Human-aligned reasoning
 
-## 📁 Structure
+## Structure
 - `prompts/` — categorized prompts for testing
 - `responses/` — raw and annotated model outputs
 - `evaluation/` — tracking sheet and scoring rubric
 - `notebooks/` — optional analysis tools
 
-## ✅ Goals
+## Goals
 - Identify gaps in current models' ability to infer user intent
 - Propose metrics for intent-alignment and human-centered explanations
 - Showcase improvement opportunities in explainable code generation
